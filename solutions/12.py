@@ -54,7 +54,7 @@ def step1():
 
 	print(abs(curPos[0]) + abs(curPos[1]))
 
-def step1():
+def step2():
 	curWP = START_WP
 	curPos = (0, 0)
 	with open(INPUT_FILE) as f:
@@ -63,11 +63,6 @@ def step1():
 			(curPos, curWP) = calcWPMove(curPos, curWP, line)
 
 	print(abs(curPos[0]) + abs(curPos[1]))
-
-
-def step2():
-	with open(INPUT_FILE) as f:
-		pass
 
 if __name__ == '__main__':
 	step1()

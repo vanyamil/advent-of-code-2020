@@ -54,3 +54,7 @@ Cellular automata, in a great story and such a good twist. Very good problem, ve
 ## Day 12: Rain Risk
 
 Again, really not sure about the title, and this time even about the problem - the rain idea was instantly forgotten. Maybe *Naughty Navigation* or *Distanced Displacement*? But the problem itself was fun, with a great part 2 twist. Relatively easy to code too, with very similar code despite the twist.
+
+## Day 13: Shuttle Search
+
+First problem - simple, fun, part of the story. Part 2 was absolutely breaking the narrative but was a great way to use the Chinese Remainder Theorem! Yes, I ended up "cheating" by getting a worked out extended GCD function from wikibooks, but I couldn't be bothered here.
