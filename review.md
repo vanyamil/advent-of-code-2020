@@ -58,3 +58,8 @@ Again, really not sure about the title, and this time even about the problem - t
 ## Day 13: Shuttle Search
 
 First problem - simple, fun, part of the story. Part 2 was absolutely breaking the narrative but was a great way to use the Chinese Remainder Theorem! Yes, I ended up "cheating" by getting a worked out extended GCD function from wikibooks, but I couldn't be bothered here.
+
+## Day 14: Docking Data
+
+A bit of a forced narrative, but it ends up working out somewhat. Nice twist on part 2 but extremely reliant on good input generation - too many Xs, and we have exponential time up to 2^36 operations to do.
+
