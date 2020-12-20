@@ -67,3 +67,6 @@ A bit of a forced narrative, but it ends up working out somewhat. Nice twist on 
 
 Great title, quick problem, but no connection to the story and no twist for part 2. Took a bit of tinkering with the code but could have been better!
 
+## Day 16: Ticket Translation
+
+Storyline turned a bit grim with the "yeah, you totally have super camera powers", but works ok. Good input file to parse, nice and simple part 1. Logical twist for part 2 that once again depends on input definition or exact problem parameters. Theoretically could have required a bit of sudoku to resolve; however, looking at midway data shows that there was exactly one way to do it, based on fact that ordering rows by number of possibilities allowed simple elimination logic. Ended up manually evaluating it though.
