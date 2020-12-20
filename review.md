@@ -63,3 +63,7 @@ First problem - simple, fun, part of the story. Part 2 was absolutely breaking t
 
 A bit of a forced narrative, but it ends up working out somewhat. Nice twist on part 2 but extremely reliant on good input generation - too many Xs, and we have exponential time up to 2^36 operations to do.
 
+## Day 15: Rambunctious Recitation
+
+Great title, quick problem, but no connection to the story and no twist for part 2. Took a bit of tinkering with the code but could have been better!
+
