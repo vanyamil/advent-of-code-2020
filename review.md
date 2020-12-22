@@ -70,3 +70,8 @@ Great title, quick problem, but no connection to the story and no twist for part
 ## Day 16: Ticket Translation
 
 Storyline turned a bit grim with the "yeah, you totally have super camera powers", but works ok. Good input file to parse, nice and simple part 1. Logical twist for part 2 that once again depends on input definition or exact problem parameters. Theoretically could have required a bit of sudoku to resolve; however, looking at midway data shows that there was exactly one way to do it, based on fact that ordering rows by number of possibilities allowed simple elimination logic. Ended up manually evaluating it though.
+
+## Day 17: Conway Cubes
+
+A more direct Cellular Automata question. 3D means a bit more annoying but can still figure things out. Reused some code from previous CA question, but reworked it to be based on a multidimensional vector (fixed-size single array with multi-dimensional fetching). Decided to use this opportunity to design it well. That really paid off too, because the part 2 twist was just a couple of characters changed!
+
